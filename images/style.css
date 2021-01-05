@@ -1,0 +1,70 @@
+.halfside{
+  width:30%;
+  float: left;
+  margin:5%;
+  padding: 2%;
+  border: 3px solid red;
+  text-align: justify;
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px gray;
+  background-color:white;
+  color:indigo;
+  font-size: 20px;
+  font-weight: 500;
+}
+body{
+  margin:0;
+  padding:0;
+}
+.top{
+  height:500px;
+  background-image: url("top-banner.png");
+  background-repeat: no-repeat;
+}
+.halfwidth img{
+  width:80%;
+  margin-left:10%;
+  
+}
+.halfwidth{
+  width:35%;
+  float: left;
+  margin-left: 2%;
+  
+}
+#lorem{
+  margin-left: 30%;
+  padding:5%;
+  border:5px solid black;
+  text-align: justify;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg,lightsalmon,tomato);
+  color:lavender;
+
+}
+.middle{
+  
+  height:500px;
+  background-image: url("exp-bg.png");
+  background-position: right;
+  background-repeat: no-repeat;
+
+}
+.link{
+  
+  height: 300px;
+  margin-top: 5%;
+}
+.new{
+  font-size: 20px;
+ text-decoration: none;  
+ background-image:linear-gradient(45deg,blue,cyan);
+ padding:20px 20px;
+ color:blanchedalmond;
+ margin-top: 10%;
+ margin-left:5%;
+ font-weight: 600;
+
+
+}
+
