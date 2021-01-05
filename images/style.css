@@ -52,19 +52,58 @@ body{
 }
 .link{
   
-  height: 300px;
-  margin-top: 5%;
+  height:500px;
+ 
+  
+ 
 }
 .new{
+
   font-size: 20px;
  text-decoration: none;  
  background-image:linear-gradient(45deg,blue,cyan);
- padding:20px 20px;
  color:blanchedalmond;
- margin-top: 10%;
- margin-left:5%;
+
+ 
  font-weight: 600;
+ padding: 10px 20px;
+ margin-left:5%;
+ padding-right:4%;
 
 
 }
+.rafi{
+  width:30%;
+  float: right;
+  margin-right: 10%;
+
+}
+.singlebox{
+  width:35%;
+  float:left;
+  margin-left: 5%;
+  padding: 2%;
+  border:5px solid black;
+  
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px lightgreen;
+  background-image: linear-gradient(180deg, blue,cyan);
+  color:lightpink;
+  font-weight: 600;
+  font-size:20px;
+  text-align: justify;
+}
+.practice{
+  height:200px;
+}
+
+footer p{
+  font-size: 12px;
+  color:orangered;
+  text-align: center;
+}
+
+
+
+
 
